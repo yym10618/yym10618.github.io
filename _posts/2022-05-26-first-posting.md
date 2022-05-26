@@ -26,7 +26,7 @@ preview: 0
 
 ## Ruby 설치
 
-- https://rubyinstaller.org/downloads/<https://rubyinstaller.org/downloads/>
+- <https://rubyinstaller.org/downloads/>
 - WITH DEVKIT에서 맞는 버전 설치
 
 ## jekyll 설치
@@ -54,14 +54,14 @@ preview: 0
 
 ## 서버실행확인 주소
 
-- http://127.0.0.1:4000/<http://127.0.0.1:4000/>
+- <http://127.0.0.1:4000/>
 
 ## 깃허브 블로그 생성
 
 ## 템플릿 선택
 
-http://jekyllthemes.org/<http://jekyllthemes.org/>
-해당템플릿 깃허브 페이지에서 url 복사
+- <http://jekyllthemes.org/>
+- 해당템플릿 깃허브 페이지에서 url 복사
 
 ## 내 깃허브 repository 생성
 
@@ -73,8 +73,8 @@ http://jekyllthemes.org/<http://jekyllthemes.org/>
 
 ## 클론으로 디렉터리 가져오기
 
-git clone
+- git clone
 
 ## \_post 에서 md 파일 생성하여 포스팅
 
-yyyy-mm-dd-title.md
+- yyyy-mm-dd-title.md
